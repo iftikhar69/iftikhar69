@@ -14,13 +14,13 @@
 ### 🌍 About Me
 
 I’m **Iftikhar Ali**, a **Software Engineering student** at  
-🎓 *Karakoram International University (KIU)*,  
+🎓 *Karakoram International University (KIU)*  
 and a **part-time DevOps Engineer** at *Core Elite Experts*.
 
-I began my journey in **front-end web development** — where I spent a year building responsive interfaces and learning clean, user-focused design.  
-That foundation naturally evolved into an interest in **DevOps** — where I now focus on bridging code and infrastructure through automation.
+My tech journey started in **frontend development**, where I learned to build user-focused interfaces with JavaScript and React.  
+But my curiosity about **how systems work behind the scenes** led me to **DevOps** — and it’s been an incredible ride ever since 🚀
 
-> 💬 “From designing web apps to designing the pipelines that deploy them — it’s been a challenging, exciting learning curve.”
+> 💬 “From designing web apps to automating cloud pipelines — my goal is to build systems that just work.”
 
 ---
 
@@ -35,6 +35,8 @@ That foundation naturally evolved into an interest in **DevOps** — where I now
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI/CD-Pipeline-blue?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Automation-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
@@ -42,25 +44,25 @@ That foundation naturally evolved into an interest in **DevOps** — where I now
 ### 🧩 Featured Projects
 
 #### 🏗️ [Terraform Modular AWS Infrastructure](https://github.com/iftikhar69/Creating-vpc-Modules-)
-Provisioning AWS VPC, EC2, S3, and DynamoDB using modular Terraform configurations —  
-built for scalability and multi-environment deployment (**dev**, **stage**, **prod**).
+Modular Terraform configurations to provision **AWS VPC, EC2, S3, and DynamoDB**  
+with environment-based deployment (Dev / Stage / Prod).
 
-#### ⚙️ [Automation Scripts (Core Elite)](#)
-Small, efficient scripts for server setup and deployment automation using Terraform & Bash.
+#### ⚙️ [Infrastructure Automation (Core Elite)](#)
+Bash and Terraform scripts that simplify deployment, configuration, and monitoring.
 
 #### 🌐 [Personal Portfolio Website](#)
-A portfolio project to showcase my work and DevOps roadmap, built using **React + TailwindCSS**.
+A portfolio site built using **React + TailwindCSS**, showcasing my DevOps roadmap and projects.
 
 ---
 
-### 🚀 My DevOps Journey
+### 🚀 My DevOps Path
 
-💻 1 year as a Frontend Developer → learned to build clean UIs  
-⚙️ Shifted into DevOps → learning how to deploy and scale them  
-☁️ Built Terraform infrastructure on AWS  
-📈 Now exploring Kubernetes, Observability & Cloud Architecture  
+💻 Started as a **Frontend Developer** → learned UI/UX precision  
+☁️ Transitioned to **DevOps** → explored infrastructure and automation  
+🧠 Building expertise in **AWS, Terraform, and CI/CD pipelines**  
+⚙️ Now diving deeper into **Kubernetes & observability**
 
-> “DevOps isn’t about servers — it’s about creating confidence in delivery.”
+> “DevOps isn’t just tools — it’s the culture of building confidence in every deployment.”
 
 ---
 
@@ -79,21 +81,31 @@ A portfolio project to showcase my work and DevOps roadmap, built using **React 
 
 ### 🧠 2025 Goals
 
-- Master **Kubernetes (EKS)** and **Cloud Architecture**
-- Build an open-source Terraform module for AWS beginners
-- Contribute to real-world DevOps projects
-- Develop a small **CI/CD-driven SaaS product**
+- ☸️ Master **Kubernetes (EKS)** & **Cloud Design Patterns**
+- ☁️ Build an open-source **Terraform AWS Starter Module**
+- 🔄 Create a **CI/CD pipeline** from scratch using GitHub Actions
+- 📘 Contribute to open-source DevOps communities
+- 🎯 Explore **observability tools** (Prometheus, Grafana)
 
 ---
 
-### 🎨 Fun Touch: Activity Graph & Animation
+### 🪄 Fun & Visuals
 
+#### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </p>
 
+#### 🐍 Animated Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+#### 🌌 Explore My 3D GitHub Skyline
+<p align="center">
+  <a href="https://skyline.github.com/iftikhar69">
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub%20Skyline-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -103,16 +115,16 @@ A portfolio project to showcase my work and DevOps roadmap, built using **React 
 📧 **Email:** [iftikharali081144@gmail.com](mailto:iftikharali081144@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/iftikhar-ali](#)  
 🌐 **GitHub:** [github.com/iftikhar69](https://github.com/iftikhar69)  
-🏫 **University:** Software Engineering @ Karakoram International University  
+🏫 **University:** Software Engineering @ *Karakoram International University (KIU)*  
 
 ---
 
-### ✨ Quote I Live By
+### 💬 Quote I Live By
 
 > “Automation doesn’t replace humans — it empowers them to build faster, safer, and smarter.”
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile — I’m always open to collaboration and learning opportunities 🤝</i>
+  <i>Thanks for visiting my profile! Always open to collaborations, learning, and new ideas 🤝</i>
 </p>
