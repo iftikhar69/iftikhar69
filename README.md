@@ -39,6 +39,7 @@ tech_focus:
 
 currently_learning: ["Kubernetes", "Cloud Security", "Prometheus"]
 
+---
 ## ⚙️ My Tech Stack
 
 <p align="center">
