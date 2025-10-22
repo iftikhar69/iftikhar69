@@ -1,13 +1,10 @@
-<!-- 🌌 HEADER -->
-<p align="center">
-  <img src="./banner.png" alt="Iftikhar Ali | DevOps Engineer" width="100%" />
-</p>
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Iftikhar%20Ali&fontSize=60&fontAlignY=35&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Automation%20Specialist&descAlignY=55)
 
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Iftikhar Ali</span></h1>
-<p align="center">
-  🚀 <strong>DevOps Engineer | AWS | Terraform | Docker | WordPress | CI/CD | Cloud Automation</strong><br/>
-  <em>“Designing systems that deliver reliability, scalability, and speed.”</em>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+World+%F0%9F%8C%8E;Cloud+Architect+%E2%9A%99%EF%B8%8F;Automation+Enthusiast+%F0%9F%9A%80;Infrastructure+Storyteller+%F0%9F%93%9A" alt="Typing SVG" />
+
+</div>
 
 ---
 
