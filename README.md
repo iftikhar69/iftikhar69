@@ -1,71 +1,155 @@
+<!-- 🌟 ULTIMATE HEADER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:7B42BC,100:ed5a87&height=200&section=header&text=Iftikhar+Ali&fontSize=60&fontAlignY=35&animation=scale&desc=DevOps+Engineer+%7C+Cloud+Automation&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:7B42BC,100:ed5a87&height=220&section=header&text=Iftikhar+Ali&fontSize=70&fontAlignY=40&animation=scale&desc=DevOps+Engineer+%7C+Cloud+Automation&descAlignY=65&descSize=22&fontColor=ffffff)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+World+%F0%9F%8C%8E;Cloud+Architect+%E2%9A%99%EF%B8%8F;Automation+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%8C%8E;Cloud+Architect+%E2%9A%99%EF%B8%8F;Automation+Enthusiast+%F0%9F%9A%80;Infrastructure+Storyteller+%F0%9F%93%9A" alt="Typing SVG" />
 
-<p><strong>🚀 "Building bridges between code and cloud infrastructure" ☁️</strong></p>
+### **"Building bridges between code and cloud infrastructure"** ☁️
 
-<p><img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,github,react,js,linux,bash,python,ansible,grafana,wordpress" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,github,react,js,linux,bash,python,ansible,grafana" />
+</p>
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true" width="400"></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true" width="400"></td></tr></table>
+<!-- Stats Row -->
+<div align="center">
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="400" /> |
+|:---:|:---:|
 
-## 🎯 About Me
+</div>
+
+</div>
+
+---
+
+## 🎯 **About Me**
 
 ```yaml
 name: Iftikhar Ali
-role: DevOps Engineer @ Core Elite Experts  
+located_in: Pakistan
+current_job: DevOps Engineer @ Core Elite Experts
 education: "BSc Software Engineering @ KIU"
-focus: ["Cloud Architecture", "Automation", "Infrastructure as Code"]
-learning: ["Kubernetes", "Cloud Security", "Prometheus"]
+passions: ["Cloud Architecture", "Automation", "Open Source", "System Design"]
 
+tech_focus:
+  cloud: ["AWS", "Terraform", "Docker", "Kubernetes"]
+  devops: ["CI/CD", "GitHub Actions", "Ansible", "Monitoring"]
+  development: ["React", "JavaScript", "Python", "Bash"]
+
+currently_learning: ["Kubernetes", "Cloud Security", "Prometheus"]
 ```
-    ⚡ "From frontend aesthetics to backend resilience — crafting full-spectrum solutions"
+---
+## ⚙️ My Tech Stack
 
-🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
 
-https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-🚀 Featured Projects
-🏗️ Terraform Modular AWS Infrastructure
+---
 
-Reusable, scalable Terraform modules for AWS infrastructure with multi-environment deployments.
-⚙️ Automation Scripts @ Core Elite
+## 🧩 Featured Projects
 
-Custom Terraform + Bash scripts for automated cloud provisioning and deployment.
-🌐 Portfolio Website
+### 🏗️ [Terraform Modular AWS Infrastructure](https://github.com/iftikhar69/Creating-vpc-Modules-)
+Reusable, scalable **Terraform modules** to provision AWS infrastructure —  
+including VPCs, EC2s, S3, and DynamoDB — built for multi-environment deployments (dev, stage, prod).
 
-Modern React + TailwindCSS portfolio with DevOps integration and deployment workflows.
-🧭 My DevOps Journey
+### ⚙️ [Automation Scripts @ Core Elite](#)
+Custom **Terraform + Bash** scripts for automated instance setup, cloud provisioning, and deployment.
 
-💻 Started as Frontend Developer — UI precision & performance
-☁️ Transitioned to DevOps — Automation and scalability
-📦 Mastered Docker, Terraform, AWS — Infrastructure as Code
-⚙️ Learning Kubernetes & Observability — Cloud native technologies
+### 🌐 [Portfolio Website](#)
+A modern **React + TailwindCSS** portfolio integrating deployment workflows and DevOps storytelling.
 
-    "DevOps isn't about servers — it's about building trust in every delivery."
+---
 
-📈 GitHub Analytics
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true" width="400"></td><td><img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true" width="400"></td></tr></table>
+## 🧭 My DevOps Journey
 
-https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-🌟 2025 Vision
+**💻 Started as a Frontend Developer** — learned UI precision & performance  
+**☁️ Transitioned to DevOps** — focused on automation and scalability  
+**📦 Explored Docker, Terraform, AWS, CI/CD** — bringing projects to life  
+**⚙️ Now learning Kubernetes (EKS)** and **Observability** tools  
 
-🌩️ Master Kubernetes (EKS) & Cloud Architecture
-🔧 Develop Terraform Starter Framework
-📦 Full CI/CD with GitHub Actions
-📈 Monitoring with Grafana & Prometheus
-🌐 Open Source Contributions
-📡 Live Status
+> **"DevOps isn't about servers — it's about building trust in every delivery."**
 
-https://img.shields.io/badge/Learning-Kubernetes_&_Cloud_Security-blue?style=for-the-badge&logo=kubernetes https://img.shields.io/badge/Focus-Cloud_Automation-0A66C2?style=for-the-badge&logo=terraform https://img.shields.io/badge/Open-Collaborations_&_Learning-success?style=for-the-badge&logo=github
-📫 Connect With Me
+---
 
-https://img.shields.io/badge/Email-iftikharali081144@gmail.com-EA4335?style=for-the-badge&logo=gmail https://img.shields.io/badge/LinkedIn-Iftikhar_Ali-0A66C2?style=for-the-badge&logo=linkedin https://img.shields.io/badge/GitHub-iftikhar69-181717?style=for-the-badge&logo=github
-💬 Philosophy
+## 📊 GitHub Analytics
 
-    "Automation doesn't replace humans — it amplifies them."
-    "The best engineers design systems that grow, recover, and learn."
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=tokyonight&margin-w=15&no-frame=true" />
+</p>
 
-<p><i>Thanks for dropping by! Let's build, automate, and grow together 🤝</i></p><img src="https://komarev.com/ghpvc/?username=iftikhar69&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"></div> ```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/iftikhar69">
+    <img src="https://img.shields.io/badge/🌌_View_My_3D_Skyline-232F3E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 2025 Vision
+
+**🌩️ Master Kubernetes (EKS) & Cloud Architecture**  
+**🔧 Develop a Terraform Starter Framework for AWS**  
+**📦 Create a full CI/CD pipeline using GitHub Actions**  
+**📈 Improve monitoring & observability with Grafana & Prometheus**  
+**🌐 Contribute to open-source DevOps automation tools**
+
+---
+
+## 📡 Status Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_Learning-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Automation_&_Cloud-0A66C2?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration_&_Learning-success?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+**📧 Email:** [iftikharali081144@gmail.com](mailto:iftikharali081144@gmail.com)  
+**💼 LinkedIn:** [linkedin.com/in/iftikhar-ali](#)  
+**🌐 GitHub:** [github.com/iftikhar69](https://github.com/iftikhar69)  
+**🏫 University:** Software Engineering @ *Karakoram International University (KIU)*  
+
+---
+
+## 💬 Philosophy
+
+> **"Automation doesn't replace humans — it amplifies them."**  
+> **"The best engineers don't just code — they design systems that grow, recover, and learn."**
+
+---
+
+<p align="center">
+  <i>Thanks for dropping by! Let's build, automate, and grow together 🤝</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
