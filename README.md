@@ -10,14 +10,7 @@
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true" width="400"></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true" width="400"></td></tr></table>
 
-## 🎯 About Me
 
-
-name: Iftikhar Ali
-role: DevOps Engineer @ Core Elite Experts  
-education: "BSc Software Engineering @ KIU"
-focus: ["Cloud Architecture", "Automation", "Infrastructure as Code"]
-learning: ["Kubernetes", "Cloud Security", "Prometheus"]
 
 ## 🎯 **About Me**
 
