@@ -1,30 +1,43 @@
-<!-- OPTION 3: Balanced & Modern -->
+<!-- 🌟 ULTIMATE HEADER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:7B42BC&height=200&section=header&text=Iftikhar+Ali&fontSize=60&fontAlignY=35&animation=fadeIn&desc=DevOps+Engineer+%7C+Cloud+Automation&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:7B42BC,100:ed5a87&height=220&section=header&text=Iftikhar+Ali&fontSize=70&fontAlignY=40&animation=scale&desc=DevOps+Engineer+%7C+Cloud+Automation&descAlignY=65&descSize=22&fontColor=ffffff)
 
-### "Transforming code into reliable infrastructure"
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,github,react,js,linux" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%8C%8E;Cloud+Architect+%E2%9A%99%EF%B8%8F;Automation+Enthusiast+%F0%9F%9A%80;Infrastructure+Storyteller+%F0%9F%93%9A" alt="Typing SVG" />
+
+### **"Building bridges between code and cloud infrastructure"** ☁️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,github,react,js,linux,bash,python,ansible,grafana" />
 </p>
 
+<!-- Stats Row -->
+<div align="center">
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="400" /> |
+|:---:|:---:|
+
 </div>
----
 
-## 🌍 About Me
-
-I'm **Iftikhar Ali**, a **Software Engineering student** at  
-🎓 *Karakoram International University (KIU)* and a **part-time DevOps Engineer** at *Core Elite Experts*.
-
-Over a year ago, I started in **front-end development**, building intuitive, user-centered web applications using **React**, **JavaScript**, and **WordPress**.  
-That creative foundation sparked my curiosity about **how systems scale and automate** — which led me straight into the world of **DevOps** 🌩️
-
-Now, I focus on **bridging development and infrastructure**, combining automation, cloud architecture, and CI/CD pipelines to bring ideas to life.
-
-> 💬 **"From building frontends to automating cloud backends — my goal is to make development effortless and deployment bulletproof."**
+</div>
 
 ---
+
+## 🎯 **About Me**
+
+```yaml
+name: Iftikhar Ali
+located_in: Pakistan
+current_job: DevOps Engineer @ Core Elite Experts
+education: "BSc Software Engineering @ KIU"
+passions: ["Cloud Architecture", "Automation", "Open Source", "System Design"]
+
+tech_focus:
+  cloud: ["AWS", "Terraform", "Docker", "Kubernetes"]
+  devops: ["CI/CD", "GitHub Actions", "Ansible", "Monitoring"]
+  development: ["React", "JavaScript", "Python", "Bash"]
+
+currently_learning: ["Kubernetes", "Cloud Security", "Prometheus"]
 
 ## ⚙️ My Tech Stack
 
