@@ -1,4 +1,4 @@
-<!-- 🌟 ULTIMATE HEADER -->
+<!-- 🌟 ULTIMATE DEVPROFILE -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:7B42BC,100:ed5a87&height=220&section=header&text=Iftikhar+Ali&fontSize=70&fontAlignY=40&animation=scale&desc=DevOps+Engineer+%7C+Cloud+Automation&descAlignY=65&descSize=22&fontColor=ffffff)
@@ -8,18 +8,25 @@
 ### **"Building bridges between code and cloud infrastructure"** ☁️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,github,react,js,linux,bash,python,ansible,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,github,react,js,linux,bash,python,ansible,grafana,wordpress" />
 </p>
 
-<!-- Stats Row -->
-<div align="center">
-  
 | <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="400" /> |
 |:---:|:---:|
 
-</div>
+## 🎯 **About Me**
 
-</div>
+yaml
+name: Iftikhar Ali
+located_in: Pakistan
+current_job: DevOps Engineer @ Core Elite Experts
+education: "BSc Software Engineering @ KIU"
+passions: ["Cloud Architecture", "Automation", "Open Source", "System Design"]
+tech_focus:
+  cloud: ["AWS", "Terraform", "Docker", "Kubernetes"]
+  devops: ["CI/CD", "GitHub Actions", "Ansible", "Monitoring"]
+  development: ["React", "JavaScript", "Python", "Bash", "WordPress"]
+currently_learning: ["Kubernetes", "Cloud Security", "Prometheus"]
 
 ---
 
