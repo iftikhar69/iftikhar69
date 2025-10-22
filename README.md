@@ -1,16 +1,11 @@
-<!-- OPTION 1: Minimalist & Professional -->
+<!-- OPTION 2: Visual & Engaging -->
 <div align="center">
   
-# 🚀 Iftikhar hussain
-### DevOps Engineer | Cloud Automation Specialist
-*Building scalable infrastructure that just works*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=Iftikhar%20Ali&fontSize=50&animation=scaleIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect&descAlignY=65&descSize=20" alt="Header" />
 
-![DevOps](https://img.shields.io/badge/DevOps-000?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+World+%F0%9F%8C%8E;Cloud+Automation+%E2%9A%99%EF%B8%8F;Infrastructure+as+Code+%F0%9F%93%96" alt="Typing SVG" />
 
 </div>
-
 ---
 
 ## 🌍 About Me
