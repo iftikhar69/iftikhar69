@@ -1,42 +1,42 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-<h1>Iftikhar Ali</h1>
-<h3>🚀 DevOps Engineer | Cloud Architect</h3>
+# Iftikhar Ali
+### DevOps Engineer | Cloud Infrastructure Specialist
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=From+Frontend+to+Cloud+Infrastructure;Building+Scalable+Systems+with+Code;6+Months+of+Rapid+Growth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code+Expert;Cloud+Automation+Specialist;Kubernetes+%7C+Terraform+%7C+AWS;Building+Scalable+Cloud+Systems" alt="Typing SVG" />
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-<p align="center">
-  <!-- Cloud -->
+### **Cloud & Infrastructure**
+<p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <br/>
-  
-  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### **DevOps & Automation**
+<p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <br/>
-  
-  <!-- Development -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+### **Development & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true" height="165" />
@@ -44,29 +44,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" />
   <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" height="165" />
 </p>
 
 ---
 
-## 🚀 My DevOps Journey
+## 🚀 Infrastructure Projects
 
-**🎯 Started: July 2024** - From Frontend Developer to DevOps Engineer
+### **🏗️ Terraform AWS Infrastructure**
+Production-ready Terraform modules provisioning multi-environment AWS infrastructure including VPCs, EC2 instances, S3 buckets, and Lambda functions.
 
-**📈 Skills Mastered in 6 Months:**
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **Containerization:** Docker, Kubernetes, ECS  
-- **Cloud Services:** AWS (EC2, Lambda, S3, VPC, RDS)
-- **CI/CD:** GitHub Actions, Jenkins pipelines
-- **Monitoring:** CloudWatch, Prometheus, Grafana
-- **Full Stack:** React, Node.js, MongoDB, JWT Auth
+### **⚡ DevOps Automation Pipeline**
+End-to-end CI/CD implementation with GitHub Actions, containerization strategies, and automated deployment workflows.
 
-**💡 Unique Perspective:** Combining frontend UX understanding with backend infrastructure reliability
+### **🔧 Kubernetes Cluster Management**
+Container orchestration setup with monitoring, logging, and auto-scaling configurations.
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=00D4FF&point=FFFFFF" width="100%" />
@@ -78,30 +75,31 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Technical Expertise
 
-### 🏗️ [Terraform AWS Infrastructure](https://github.com/iftikhar69/Creating-vpc-Modules-)
-Production-ready Terraform modules for multi-environment AWS deployments
+### **Infrastructure as Code**
+- Terraform module development and state management
+- CloudFormation templates for AWS resource provisioning
+- Multi-environment deployment strategies
 
-### ⚡ DevOps Automation Suite
-Custom scripts and pipelines for cloud automation and deployment
+### **Containerization & Orchestration**
+- Docker containerization and image optimization
+- Kubernetes cluster management and application deployment
+- Service mesh and networking configurations
 
-### 🌐 Full Stack Dashboard
-React + Node.js + MongoDB application with complete authentication system
+### **Cloud Platform Proficiency**
+- AWS services (EC2, S3, Lambda, VPC, IAM, RDS)
+- Infrastructure security and compliance
+- Cost optimization and resource management
+
+### **CI/CD & Automation**
+- Pipeline design and implementation
+- Automated testing and deployment strategies
+- Monitoring and alerting systems
 
 ---
 
-## 🎯 2025 Goals
-
-- **Master Kubernetes and Cloud Native technologies**
-- **Build advanced Terraform modules for multi-cloud**
-- **Implement complete GitOps workflows** 
-- **Contribute to open source DevOps tools**
-- **Master cloud security and best practices**
-
----
-
-## 📫 Connect With Me
+## 📫 Professional Contact
 
 <p align="center">
   <a href="mailto:iftikharali081144@gmail.com">
@@ -117,13 +115,7 @@ React + Node.js + MongoDB application with complete authentication system
 
 ---
 
-## 💭 Philosophy
-
-> **"Automation amplifies human potential. Reliability is a feature, not an afterthought. We deploy confidence, not just code."**
-
-<p align="center">
-  <i>Thanks for stopping by! Let's build amazing things together 🚀</i>
-</p>
+> **"Infrastructure should be reliable, scalable, and maintainable. I build systems that developers can trust and businesses can depend on."**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views" />
