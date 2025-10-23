@@ -1,6 +1,6 @@
 <div align="center">
 
-# Iftikhar Ali
+# Iftikhar Hussain
 ### DevOps Engineer | Cloud Infrastructure Specialist
 
 ---
@@ -23,63 +23,173 @@
 
 ---
 
-## 🚀 My DevOps Transformation Journey
+## 🚀 My DevOps Transformation
 
-```mermaid
-timeline
-    title My Cloud Infrastructure Evolution
-    section Frontend Development Era
-        2022-2023 : React & JavaScript<br>WordPress Development<br>UI/UX Design
-    section Full Stack Expansion
-        2023-2024 : Node.js & MongoDB<br>Backend Development<br>Full Stack Applications
-    section DevOps Awakening
-        July 2024 : Docker & Containerization<br>Linux Administration<br>Infrastructure Fundamentals
-    section Cloud Infrastructure Mastery
-        2024-2025 : AWS Cloud Services<br>Terraform Infrastructure as Code<br>Kubernetes Orchestration<br>CI/CD Automation
-    section Intelligent Automation
-        2025 : AI-Powered DevOps<br>MLOps Implementation<br>Predictive Infrastructure Scaling
+### **Frontend Development Era (2022-2023)**
+- React & JavaScript Development
+- WordPress Solutions
+- UI/UX Design
 
-```
-📊 My GitHub Journey
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" height="165" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" /> </p>
+### **Full Stack Expansion (2023-2024)**
+- Node.js & MongoDB Backend
+- Full Stack Applications
+- REST API Development
 
-📈 Contributions & Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&custom_title=My%20Contributions%20Activity" width="100%" /> </p><p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" /> </p><p align="center"> <a href="https://skyline.github.com/iftikhar69"> <img src="https://img.shields.io/badge/🌌_Explore_My_3D_Code_Skyline-232F3E?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+### **DevOps Awakening (July 2024)**
+- Docker & Containerization
+- Linux Administration
+- Infrastructure Fundamentals
 
-🏗️ Featured Infrastructure Projects
-Terraform AWS Infrastructure
+### **Cloud Infrastructure Mastery (2024-2025)**
+- AWS Cloud Services
+- Terraform Infrastructure as Code
+- Kubernetes Orchestration
+- CI/CD Automation
 
+### **Intelligent Automation (2025)**
+- AI-Powered DevOps
+- MLOps Implementation
+- Predictive Infrastructure Scaling
+
+---
+
+## 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## 📈 Contributions & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&custom_title=My%20Contributions%20Activity" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/iftikhar69">
+    <img src="https://img.shields.io/badge/🌌_Explore_My_3D_Code_Skyline-232F3E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏗️ Featured Infrastructure Projects
+
+<div align="left">
+
+### **🏗️ Terraform AWS Infrastructure** 
 Production-ready modules for multi-environment deployments with automated scaling and security configurations.
-Intelligent CI/CD Pipelines
 
+### **⚡ Intelligent CI/CD Pipelines**
 AI-enhanced automation workflows with predictive testing and smart rollback capabilities.
-Kubernetes Cluster Management
 
+### **🐳 Kubernetes Cluster Management**
 Container orchestration with advanced monitoring, auto-scaling, and service mesh implementations.
-Full Stack Dashboard
 
+### **🌐 Full Stack Dashboard**
 React + Node.js + MongoDB application with complete authentication system and DevOps deployment.
 
-📡 Live Status Dashboard
-<p align="center"> <img src="https://img.shields.io/badge/🚀_Currently_Building-Kubernetes_Clusters-blue?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/🎯_Focus-Infrastructure_Automation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/💡_Open_To-Collaboration_&_Innovation-success?style=for-the-badge&logo=github" /> </p>
+</div>
 
-🎯 Technical Expertise
-Infrastructure as Code	Cloud Native Technologies	DevOps Automation
-Terraform • CloudFormation	Kubernetes • Docker • Helm	GitHub Actions • Jenkins
-Multi-cloud Strategies	Service Mesh • Istio	Monitoring • Prometheus
-Security & Compliance	Microservices Architecture	CI/CD Pipeline Design
-AI & Intelligent Automation	Full Stack Development	Cloud Platforms
-AI-Powered DevOps	React • Node.js • MongoDB	AWS • Cloud Services
-Predictive Scaling	REST APIs • Authentication	EC2 • Lambda • S3
-MLOps Integration	JavaScript • Python	VPC • IAM • RDS
+---
 
-📫 Connect With Me
-<p align="center"> <a href="mailto:iftikharali081144@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-iftikharali081144@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/iftikhar-ali"> <img src="https://img.shields.io/badge/💼_LinkedIn-Iftikhar_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/iftikhar69"> <img src="https://img.shields.io/badge/🐙_GitHub-iftikhar69-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p><p align="center"> <small>Software Engineering Student @ Karakoram International University (KIU)</small> </p>
+## 📡 Live Status Dashboard
 
-💭 Engineering Philosophy
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Currently_Building-Kubernetes_Clusters-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_Focus-Infrastructure_Automation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡_Open_To-Collaboration_&_Innovation-success?style=for-the-badge&logo=github" />
+</p>
 
-    "Infrastructure should be invisible until it's needed, and flawless when it is."
-    "We don't just automate tasks—we amplify human potential through intelligent systems."
-    "Every line of infrastructure code is a promise of reliability and scalability."
+---
 
-<p align="center"> <i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=👀%20Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" /> </p></div> ```
+## 🎯 Technical Expertise
+
+<div align="left">
+
+### **Infrastructure as Code**
+- Terraform & CloudFormation
+- Multi-cloud Strategies
+- Security & Compliance
+
+### **Cloud Native Technologies**
+- Kubernetes, Docker & Helm
+- Service Mesh & Istio
+- Microservices Architecture
+
+### **DevOps Automation**
+- GitHub Actions & Jenkins
+- Monitoring & Prometheus
+- CI/CD Pipeline Design
+
+### **AI & Intelligent Automation**
+- AI-Powered DevOps
+- Predictive Scaling
+- MLOps Integration
+
+### **Full Stack Development**
+- React, Node.js & MongoDB
+- REST APIs & Authentication
+- JavaScript & Python
+
+### **Cloud Platforms**
+- AWS Cloud Services
+- EC2, Lambda & S3
+- VPC, IAM & RDS
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:iftikharali081144@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-iftikharali081144@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/iftikhar-ali">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Iftikhar_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/iftikhar69">
+    <img src="https://img.shields.io/badge/🐙_GitHub-iftikhar69-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <small>Software Engineering Student @ Karakoram International University (KIU)</small>
+</p>
+
+---
+
+## 💭 Engineering Philosophy
+
+<div align="left">
+
+> **"Infrastructure should be invisible until it's needed, and flawless when it is."**  
+> **"We don't just automate tasks—we amplify human potential through intelligent systems."**  
+> **"Every line of infrastructure code is a promise of reliability and scalability."**
+
+</div>
+
+---
+
+<p align="center">
+  <i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=👀%20Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+</p>
+
+</div>
