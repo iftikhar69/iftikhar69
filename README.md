@@ -27,17 +27,18 @@
 
 ```mermaid
 timeline
-    title From Code to Cloud Infrastructure
-    section Frontend Foundations (2022-2023)
-        React & JavaScript : UI/UX Development<br>WordPress Solutions
-    section Full Stack Expansion (2023-2024)
-        Node.js & MongoDB : Backend Development<br>Full Stack Applications
-    section DevOps Awakening (July 2024)
-        Docker & Linux : Containerization<br>Infrastructure Basics
-    section Cloud Mastery (2024-2025)
-        AWS & Terraform : Infrastructure as Code<br>Kubernetes & Orchestration<br>CI/CD & Automation
-    section AI Integration (2025)
-        Intelligent Automation : AI-Powered DevOps<br>MLOps & Predictive Scaling
+    title My Cloud Infrastructure Evolution
+    section Frontend Development Era
+        2022-2023 : React & JavaScript<br>WordPress Development<br>UI/UX Design
+    section Full Stack Expansion
+        2023-2024 : Node.js & MongoDB<br>Backend Development<br>Full Stack Applications
+    section DevOps Awakening
+        July 2024 : Docker & Containerization<br>Linux Administration<br>Infrastructure Fundamentals
+    section Cloud Infrastructure Mastery
+        2024-2025 : AWS Cloud Services<br>Terraform Infrastructure as Code<br>Kubernetes Orchestration<br>CI/CD Automation
+    section Intelligent Automation
+        2025 : AI-Powered DevOps<br>MLOps Implementation<br>Predictive Infrastructure Scaling
+
 ```
 📊 My GitHub Journey
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" height="165" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" /> </p>
@@ -74,6 +75,7 @@ MLOps Integration	JavaScript • Python	VPC • IAM • RDS
 
 📫 Connect With Me
 <p align="center"> <a href="mailto:iftikharali081144@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-iftikharali081144@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/iftikhar-ali"> <img src="https://img.shields.io/badge/💼_LinkedIn-Iftikhar_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/iftikhar69"> <img src="https://img.shields.io/badge/🐙_GitHub-iftikhar69-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p><p align="center"> <small>Software Engineering Student @ Karakoram International University (KIU)</small> </p>
+
 💭 Engineering Philosophy
 
     "Infrastructure should be invisible until it's needed, and flawless when it is."
