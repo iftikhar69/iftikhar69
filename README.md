@@ -13,7 +13,7 @@
 
 <!-- Stats Row -->
 <div align="center">
-  
+  ```
 | <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="400" /> |
 |:---:|:---:|
 
@@ -25,7 +25,6 @@
 
 ## 🎯 **About Me**
 
-```yaml```
 name: Iftikhar Ali
 located_in: Pakistan
 current_job: DevOps Engineer @ Core Elite Experts
