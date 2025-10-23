@@ -1,136 +1,129 @@
 <div align="center">
 
+<!-- ANIMATED HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%8C%8E;Cloud+Architect+%E2%9A%99%EF%B8%8F;Automation+Enthusiast+%F0%9F%9A%80;Infrastructure+Storyteller+%F0%9F%93%9A" alt="Typing SVG" />
+
 # Iftikhar Ali
-### DevOps & Cloud Automation Engineer | AI Infrastructure Specialist
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Powered+Infrastructure+Automation;MLOps+%26+Intelligent+DevOps;Cloud+Native+AI+Integration;Automating+with+Intelligence" alt="Typing SVG" />
+### DevOps Engineer | Cloud Infrastructure Specialist
 
 ---
 
-## 🛠️ Technical Stack
-
-### **Cloud & Infrastructure AI**
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### **AI & Automation Tools**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-00C7B7?style=for-the-badge&logo=mlops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF9800?style=for-the-badge&logo=robot&logoColor=white" />
-</p>
-
-### **Intelligent DevOps**
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+## ⚙️ My Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true" height="165" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-0A66C2?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+---
+
+## 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-## 🤖 AI-Powered Infrastructure Projects
-
-### **🏗️ Intelligent Terraform Automation**
-AI-enhanced Terraform modules that automatically optimize resource allocation and cost based on usage patterns and predictive analysis.
-
-### **⚡ AI-Driven CI/CD Pipeline**
-Smart deployment pipelines that use machine learning to predict deployment success, auto-rollback on anomalies, and optimize build times.
-
-### **🔮 Predictive Cloud Scaling**
-ML-powered auto-scaling systems that anticipate traffic patterns and proactively scale infrastructure before demand spikes.
-
-### **🤖 Infrastructure ChatOps**
-AI assistants integrated with Slack/Discord for natural language infrastructure management and real-time monitoring.
-
----
-
-## 🧠 AI & Automation Expertise
-
-### **Intelligent Infrastructure**
-- AI-driven cost optimization and resource management
-- Predictive scaling using historical data patterns
-- Automated anomaly detection and self-healing systems
-- Natural language infrastructure management
-
-### **MLOps & AI Integration**
-- Containerized AI model deployments on Kubernetes
-- Automated model training and deployment pipelines
-- AI-powered monitoring and alerting systems
-- Intelligent log analysis and pattern recognition
-
-### **Smart Automation**
-- AI-enhanced Terraform for infrastructure optimization
-- Intelligent CI/CD with predictive analytics
-- Automated security scanning with AI threat detection
-- Self-documenting infrastructure with AI-generated documentation
-
----
-
-## 📈 Activity & AI Contributions
+## 📈 Contributions & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=00D4FF&point=FFFFFF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&custom_title=My%20Contributions%20Activity" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/iftikhar69">
+    <img src="https://img.shields.io/badge/🌌_Explore_My_3D_Code_Skyline-232F3E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 Technical Value Proposition
+## 🚀 Featured Infrastructure Projects
 
-**Bridging DevOps with Artificial Intelligence** - Leveraging full-stack development expertise to build intelligent, self-optimizing infrastructure systems that anticipate needs and automate complex operational tasks.
+### **🏗️ Terraform AWS Infrastructure** 
+Production-ready modules for multi-environment deployments with automated scaling and security configurations.
 
-**Web Development Foundation Enables:**
-- Deep understanding of application requirements for infrastructure design
-- Ability to bridge development teams with operations through shared context
-- Building developer-friendly automation tools and platforms
+### **⚡ Intelligent CI/CD Pipelines**
+AI-enhanced automation workflows with predictive testing and smart rollback capabilities.
+
+### **🐳 Kubernetes Cluster Management**
+Container orchestration with advanced monitoring, auto-scaling, and service mesh implementations.
 
 ---
 
-## 📫 Professional Contact
+## 📡 Live Status Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Currently_Building-Kubernetes_Clusters-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_Focus-Infrastructure_Automation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡_Open_To-Collaboration_&_Innovation-success?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 🎯 Technical Expertise
+
+**Infrastructure as Code** | **Cloud Native Technologies** | **DevOps Automation**
+:---:|:---:|:---:
+Terraform • CloudFormation | Kubernetes • Docker • Helm | GitHub Actions • Jenkins
+Multi-cloud Strategies | Service Mesh • Istio | Monitoring • Prometheus
+Security & Compliance | Microservices Architecture | CI/CD Pipeline Design
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:iftikharali081144@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iftikharali081144@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email-iftikharali081144@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/iftikhar-ali">
-    <img src="https://img.shields.io/badge/LinkedIn-Iftikhar_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Iftikhar_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/iftikhar69">
-    <img src="https://img.shields.io/badge/GitHub-iftikhar69-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐙_GitHub-iftikhar69-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <small>Software Engineering Student @ Karakoram International University (KIU)</small>
 </p>
 
 ---
 
-> **"The future of DevOps is intelligent automation. I build infrastructure that doesn't just respond to commands - it anticipates needs and optimizes itself."**
+## 💭 Engineering Philosophy
+
+> **"Infrastructure should be invisible until it's needed, and flawless when it is."**  
+> **"We don't just automate tasks—we amplify human potential through intelligent systems."**  
+> **"Every line of infrastructure code is a promise of reliability and scalability."**
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views" />
+  <i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=👀%20Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
