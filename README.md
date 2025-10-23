@@ -1,102 +1,196 @@
 <div align="center">
 
-<!-- UNIQUE ANIMATED HEADER -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%8C%8E+WELCOME+TO+MY+WORLD;CLOUD+NATIVE+DEVOPS;INFRASTRUCTURE+AS+ART;SCALING+THE+IMPOSSIBLE" alt="Typing SVG" />
-  </a>
-</p>
+<!-- NEO-GLASS HEADER -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 3rem; border-radius: 20px; border: 1px solid #30363d; box-shadow: 0 8px 32px rgba(0,212,255,0.1); backdrop-filter: blur(10px);">
 
-<!-- 3D ANIMATED PROFILE -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00D4FF&text=Iftikhar+Ali&height=150&fontSize=60&desc=DevOps+Alchemist&descAlignY=75&descSize=20&animation=blinking&stroke=00D4FF&strokeWidth=2" />
-
-<!-- GLOWING TITLE -->
-<h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/cloud.png"/> 
-  <span style="color:#00D4FF; text-shadow: 0 0 10px #00D4FF, 0 0 20px #00D4FF;">Cloud Infrastructure Engineer</span>
-  <img src="https://img.icons8.com/fluency/48/000000/kubernetes.png"/>
+<!-- MAIN TITLE WITH GRADIENT TEXT -->
+<h1 style="font-size: 3.5rem; background: linear-gradient(45deg, #00D4FF, #7B42BC, #00D4FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% auto; animation: gradient 3s ease-in-out infinite; margin-bottom: 0;">
+  IFTIKHAR ALI
 </h1>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SUBTITLE WITH PULSE ANIMATION -->
+<div style="font-size: 1.5rem; color: #00D4FF; text-shadow: 0 0 20px rgba(0,212,255,0.5); animation: pulse 2s infinite;">
+  🔥 DevOps Engineer | Cloud Architect | Automation Specialist
+</div>
 
-<!-- INTERACTIVE TECH GRID -->
-<h2>🚀 <span style="color:#00D4FF">Tech Arsenal</span></h2>
-
-<div align="center">
-  
-| **Cloud Platforms** | **Infrastructure** | **DevOps Tools** | **Development** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/> <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" title="GCP"/> | <img src="https://img.icons8.com/color/48/000000/terraform.png" title="Terraform"/> <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/> | <img src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"/> <img src="https://img.icons8.com/color/48/000000/jenkins.png" title="Jenkins"/> | <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> |
-| <img src="https://img.icons8.com/color/48/000000/ansible.png" title="Ansible"/> <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/> | <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> <img src="https://img.icons8.com/color/48/000000/bash.png" title="Bash"/> | <img src="https://img.icons8.com/color/48/000000/prometheus.png" title="Prometheus"/> <img src="https://img.icons8.com/color/48/000000/grafana.png" title="Grafana"/> | <img src="https://img.icons8.com/color/48/000000/wordpress.png" title="WordPress"/> <img src="https://img.icons8.com/color/48/000000/github-actions.png" title="GitHub Actions"/> |
+<!-- TYPING ANIMATION -->
+<div style="margin: 2rem 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+Infrastructure;Automating+Everything+Possible;Turning+Code+into+Reliable+Systems;Learning+Growing+Innovating+Daily" alt="Typing SVG" />
+</div>
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- TECH STACK FLOATING GRID -->
+<div style="margin: 3rem 0; padding: 2rem; background: rgba(13,17,23,0.8); border-radius: 15px; border: 1px solid #30363d;">
+<h2 style="color: #00D4FF; margin-bottom: 1.5rem;">🛠️ TECH STACK</h2>
 
-<!-- INTERACTIVE STATS DASHBOARD -->
-<h2>📊 <span style="color:#00D4FF">Live GitHub Dashboard</span></h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem;">
 
-<!-- REAL-TIME STATS GRID -->
-<div align="center">
+<!-- Cloud & Infrastructure -->
+<div style="text-align: center; padding: 1rem; background: rgba(0,212,255,0.1); border-radius: 10px; border: 1px solid #00D4FF;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <div style="color: #00D4FF; margin-top: 0.5rem;">AWS</div>
+</div>
 
-| **Coding Activity** | **Achievements** | **Streak & Impact** |
-|:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&include_all_commits=true" width="400" /> | <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=aura&margin-w=15&no-frame=true&row=2&column=4&title=Stars,Commit,Repositories,PullRequest" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=aura&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="400" /> |
+<div style="text-align: center; padding: 1rem; background: rgba(123,66,188,0.1); border-radius: 10px; border: 1px solid #7B42BC;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+  <div style="color: #7B42BC; margin-top: 0.5rem;">Terraform</div>
+</div>
+
+<div style="text-align: center; padding: 1rem; background: rgba(13,136,237,0.1); border-radius: 10px; border: 1px solid #0D88ED;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <div style="color: #0D88ED; margin-top: 0.5rem;">Docker</div>
+</div>
+
+<div style="text-align: center; padding: 1rem; background: rgba(50,108,229,0.1); border-radius: 10px; border: 1px solid #326CE5;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <div style="color: #326CE5; margin-top: 0.5rem;">K8s</div>
+</div>
+
+<!-- DevOps Tools -->
+<div style="text-align: center; padding: 1rem; background: rgba(32,136,255,0.1); border-radius: 10px; border: 1px solid #2088FF;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <div style="color: #2088FF; margin-top: 0.5rem;">GitHub</div>
+</div>
+
+<div style="text-align: center; padding: 1rem; background: rgba(0,0,0,0.1); border-radius: 10px; border: 1px solid #000;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" />
+  <div style="color: #fff; margin-top: 0.5rem;">Ansible</div>
+</div>
+
+<!-- Development -->
+<div style="text-align: center; padding: 1rem; background: rgba(97,218,251,0.1); border-radius: 10px; border: 1px solid #61DAFB;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <div style="color: #61DAFB; margin-top: 0.5rem;">React</div>
+</div>
+
+<div style="text-align: center; padding: 1rem; background: rgba(247,223,30,0.1); border-radius: 10px; border: 1px solid #F7DF1E;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <div style="color: #F7DF1E; margin-top: 0.5rem;">JavaScript</div>
+</div>
+
+</div>
+</div>
+
+<!-- LIVE STATS DASHBOARD -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 3rem 0;">
+
+<!-- GitHub Stats -->
+<div style="background: rgba(13,17,23,0.8); padding: 1.5rem; border-radius: 15px; border: 1px solid #30363d;">
+  <h3 style="color: #00D4FF; margin-bottom: 1rem;">📈 CODE ACTIVITY</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" width="100%" />
+</div>
+
+<!-- Streak Stats -->
+<div style="background: rgba(13,17,23,0.8); padding: 1.5rem; border-radius: 15px; border: 1px solid #30363d;">
+  <h3 style="color: #00D4FF; margin-bottom: 1rem;">🔥 CONTRIBUTION STREAK</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF" width="100%" />
+</div>
+
+<!-- Top Languages -->
+<div style="background: rgba(13,17,23,0.8); padding: 1.5rem; border-radius: 15px; border: 1px solid #30363d;">
+  <h3 style="color: #00D4FF; margin-bottom: 1rem;">💻 TOP LANGUAGES</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" width="100%" />
+</div>
 
 </div>
 
-<!-- 3D CONTRIBUTION MAP -->
-<h2>🌌 <span style="color:#00D4FF">Code Galaxy</span></h2>
+<!-- ACHIEVEMENTS & ACTIVITY -->
+<div style="margin: 3rem 0;">
 
-<!-- ANIMATED CONTRIBUTION GRAPH -->
-<div align="center">
-  
-![3D Contribution](https://activity-graph.herokuapp.com/graph?username=iftikhar69&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF)
+<!-- Trophies -->
+<div style="background: rgba(13,17,23,0.8); padding: 2rem; border-radius: 15px; border: 1px solid #30363d; margin-bottom: 2rem;">
+  <h3 style="color: #00D4FF; text-align: center; margin-bottom: 1rem;">🏆 ACHIEVEMENTS</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" width="100%" />
+</div>
 
-<!-- FLOATING SNAKE -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" />
+<!-- Activity Graph -->
+<div style="background: rgba(13,17,23,0.8); padding: 2rem; border-radius: 15px; border: 1px solid #30363d;">
+  <h3 style="color: #00D4FF; text-align: center; margin-bottom: 1rem;">📊 ACTIVITY GRAPH</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="100%" />
+</div>
 
 </div>
 
-<!-- PROJECT SHOWCASE WITH CARDS -->
-<h2>🚀 <span style="color:#00D4FF">Featured Creations</span></h2>
+<!-- SNAKE ANIMATION -->
+<div style="margin: 3rem 0; text-align: center;">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
-<div align="center">
+<!-- PROJECTS SHOWCASE -->
+<div style="background: rgba(13,17,23,0.8); padding: 2rem; border-radius: 15px; border: 1px solid #30363d; margin: 3rem 0;">
+<h2 style="color: #00D4FF; text-align: center; margin-bottom: 2rem;">🚀 FEATURED PROJECTS</h2>
 
-| **Infrastructure** | **Automation** | **Web Solutions** |
-|:---:|:---:|:---:|
-| **🏗️ Terraform AWS Modules** <br/> Production-ready infrastructure as code with multi-environment support | **⚡ DevOps Toolkit** <br/> Custom scripts for cloud automation and deployment pipelines | **🌐 Modern Portfolio** <br/> React + DevOps integration with automated workflows |
-| <img src="https://img.shields.io/badge/Status-🚀_Live-brightgreen?style=flat-square" /> <br/> [Explore →](https://github.com/iftikhar69/Creating-vpc-Modules-) | <img src="https://img.shields.io/badge/Status-🔧_Active-orange?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-🎨_Designing-blue?style=flat-square" /> |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+
+<!-- Project 1 -->
+<div style="background: linear-gradient(135deg, rgba(0,212,255,0.1) 0%, rgba(123,66,188,0.1) 100%); padding: 1.5rem; border-radius: 10px; border: 1px solid #30363d;">
+  <h4 style="color: #00D4FF; margin-bottom: 1rem;">🏗️ Terraform AWS Infrastructure</h4>
+  <p style="color: #c9d1d9;">Production-ready Terraform modules for scalable AWS infrastructure with multi-environment deployments.</p>
+  <a href="https://github.com/iftikhar69/Creating-vpc-Modules-" style="color: #7B42BC; text-decoration: none;">→ Explore Repository</a>
+</div>
+
+<!-- Project 2 -->
+<div style="background: linear-gradient(135deg, rgba(32,136,255,0.1) 0%, rgba(0,212,255,0.1) 100%); padding: 1.5rem; border-radius: 10px; border: 1px solid #30363d;">
+  <h4 style="color: #2088FF; margin-bottom: 1rem;">⚡ DevOps Automation</h4>
+  <p style="color: #c9d1d9;">Custom Terraform & Bash scripts for automated cloud provisioning and deployment pipelines.</p>
+  <a href="#" style="color: #00D4FF; text-decoration: none;">→ View Automation</a>
+</div>
+
+<!-- Project 3 -->
+<div style="background: linear-gradient(135deg, rgba(97,218,251,0.1) 0%, rgba(32,136,255,0.1) 100%); padding: 1.5rem; border-radius: 10px; border: 1px solid #30363d;">
+  <h4 style="color: #61DAFB; margin-bottom: 1rem;">🌐 Modern Portfolio</h4>
+  <p style="color: #c9d1d9;">React + DevOps integration showcasing automated deployment workflows and cloud architecture.</p>
+  <a href="#" style="color: #61DAFB; text-decoration: none;">→ Visit Site</a>
+</div>
+
+</div>
+</div>
+
+<!-- CONTACT & FOOTER -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 3rem; border-radius: 20px; border: 1px solid #30363d; text-align: center;">
+
+<h2 style="color: #00D4FF; margin-bottom: 2rem;">📬 LET'S CONNECT</h2>
+
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem;">
+
+<a href="mailto:iftikharali081144@gmail.com" style="background: linear-gradient(45deg, #EA4335, #D14836); padding: 0.8rem 1.5rem; border-radius: 25px; color: white; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;">
+  📧 Email
+</a>
+
+<a href="https://linkedin.com/in/iftikhar-ali" style="background: linear-gradient(45deg, #0077B5, #00A0DC); padding: 0.8rem 1.5rem; border-radius: 25px; color: white; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;">
+  💼 LinkedIn
+</a>
+
+<a href="https://github.com/iftikhar69" style="background: linear-gradient(45deg, #181717, #2B3137); padding: 0.8rem 1.5rem; border-radius: 25px; color: white; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;">
+  🐙 GitHub
+</a>
 
 </div>
 
-<!-- JOURNEY TIMELINE -->
-<h2>⏳ <span style="color:#00D4FF">Evolution Timeline</span></h2>
+<!-- Profile Views -->
+<div style="margin-top: 2rem;">
+  <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge" alt="Profile views" />
+</div>
 
-```mermaid
-timeline
-    title My Tech Evolution
-    section Frontend Era (2022)
-        React & JavaScript : UI/UX Design<br>WordPress Development
-    section Infrastructure (2023)
-        Linux & Containers : Docker & Bash<br>System Administration
-    section DevOps (2024)
-        Cloud & Automation : Terraform & AWS<br>CI/CD Pipelines
-    section Future (2025)
-        Cloud Native : Kubernetes Mastery<br>Open Source Contributions
-```
-<!-- GOALS PROGRESS --><h2>🎯 <span style="color:#00D4FF">2025 Mission Control</span></h2><div align="center">
-Goal	Progress	Status
-Kubernetes Mastery	https://progress-bar.vercel.app/90?width=200&color=00D4FF	🚀 Almost There
-Terraform Framework	https://progress-bar.vercel.app/75?width=200&color=00D4FF	⚡ In Progress
-CI/CD Automation	https://progress-bar.vercel.app/60?width=200&color=00D4FF	🔧 Building
-Open Source	https://progress-bar.vercel.app/40?width=200&color=00D4FF	🌱 Starting
-</div><!-- CONTACT WITH FLOATING EFFECT --><h2>📡 <span style="color:#00D4FF">Connect Matrix</span></h2><div align="center">
+<p style="color: #8b949e; margin-top: 2rem;">
+  <em>Building the future, one pipeline at a time 🚀</em>
+</p>
 
-https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-iftikharali081144@gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Iftikhar_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/%F0%9F%90%99_GITHUB-iftikhar69-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-Coming_Soon-6e5494?style=for-the-badge&logo=vercel&logoColor=white
-</div><!-- PHILOSOPHY WITH GLOW --><h2>💫 <span style="color:#00D4FF">Developer Manifesto</span></h2><blockquote align="center" style="border-left: 4px solid #00D4FF; padding-left: 15px; background: #0D1117; border-radius: 10px; padding: 20px;"> <p style="font-size: 18px; color: #00D4FF; text-shadow: 0 0 10px #00D4FF;"> <strong>"We don't just write code — we architect digital ecosystems"</strong> </p> <p style="color: #FFFFFF;"> Every line of infrastructure code is a promise of reliability<br/> Every automation script is a step toward human amplification<br/> Every deployed system is a testament to scalable design </p> </blockquote><!-- FLOATING FOOTER --><div align="center" style="margin-top: 50px; padding: 20px; background: linear-gradient(90deg, #0D1117, #00D4FF20, #0D1117); border-radius: 15px;"> <p style="color: #00D4FF; font-size: 16px;"> <strong>🚀 Thanks for exploring my digital universe!</strong> </p> <div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;"> <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=PROFILE+VISITORS&color=00D4FF&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/badge/LAST+UPDATE-DYNAMIC-00D4FF?style=for-the-badge&logo=github" alt="Last update" /> </div> <p style="color: #FFFFFF; margin-top: 15px;"> <em>Let's build the future of cloud infrastructure together! 🌟</em> </p></div></div>
+</div>
+
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+</style>
+
+</div>
