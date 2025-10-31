@@ -81,4 +81,4 @@ MLOps Integration	JavaScript • Python	VPC • IAM • RDS
     "Infrastructure should be invisible until it's needed, and flawless when it is."
     "We don't just automate tasks—we amplify human potential through intelligent systems."
     "Every line of infrastructure code is a promise of reliability and scalability."
-<p align="center"> <i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=👀%20Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" /> </p></div> 
+<p align="center"> <i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=iftikhar69&label=👀%30Profile%30Views&color=58A6FF&style=for-the-badge" alt="Profile views" /> </p></div> 
