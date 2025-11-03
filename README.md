@@ -41,10 +41,9 @@ timeline
         2025 : AI-Powered DevOps<br>MLOps Implementation<br>Predictive Infrastructure Scaling
 ```
 
----
-<div align="center">
+---<div align="center">
 
-## 📊 My GitHub Journey  
+## 🏆 GitHub Achievements & Journey  
 ⚙️ — — — ⚙️  
 
 <p align="center">
@@ -62,11 +61,16 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&custom_title=Contribution%20Activity%20Overview" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
