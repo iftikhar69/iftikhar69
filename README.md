@@ -41,28 +41,36 @@ timeline
         2025 : AI-Powered DevOps<br>MLOps Implementation<br>Predictive Infrastructure Scaling
 ```
 
----<div align="center">
+---
+<div align="center">
 
-## 🏆 GitHub Achievements & Journey  
+## 🧠 My GitHub Performance Dashboard  
 ⚙️ — — — ⚙️  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftikhar69&theme=radical" alt="Profile Details Card" width="100%"/>
+  <img src="https://github.com/iftikhar69.png" width="120" style="border-radius:50%; border: 3px solid #58A6FF;" alt="Iftikhar's Avatar"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iftikhar69&theme=radical" height="170" alt="Top Languages by Repos"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF" height="180" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftikhar69&theme=radical" width="100%" alt="Profile Summary Card"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iftikhar69&theme=radical" height="170" alt="Top Languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iftikhar69&theme=radical" height="170" alt="Most Commit Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iftikhar69&theme=radical" height="170" alt="GitHub Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iftikhar69&theme=radical&utcOffset=5" height="170" alt="Productive Time Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iftikhar69&theme=radical" height="170" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iftikhar69&theme=radical&utcOffset=5" height="170" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&line_height=24" height="170" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -74,7 +82,7 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
 <p align="center">
