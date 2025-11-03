@@ -73,22 +73,23 @@ timeline
 </p>
 
 ---
+<div align="left">
 
-🏗️ Featured Infrastructure Projects
+## 🏗️ Featured Infrastructure Projects  
+⚙️ — — — ⚙️  
 
-⚙️ — — — ⚙️
+**Terraform AWS Infrastructure**  
+Production-ready modules for multi-environment deployments with automated scaling and security configurations.  
 
-Terraform AWS Infrastructure
-Production-ready modules for multi-environment deployments with automated scaling and security configurations.
+**Intelligent CI/CD Pipelines**  
+AI-enhanced automation workflows featuring predictive testing and smart rollback capabilities.  
 
-Intelligent CI/CD Pipelines
-AI-enhanced automation workflows featuring predictive testing and smart rollback capabilities.
+**Kubernetes Cluster Management**  
+Container orchestration with advanced monitoring, auto-scaling, and service mesh implementations.  
 
-Kubernetes Cluster Management
-Container orchestration with advanced monitoring, auto-scaling, and service mesh implementations.
+**Full Stack Dashboard**  
+React + Node.js + MongoDB application with complete authentication system and DevOps deployment.  
 
-Full Stack Dashboard
-React + Node.js + MongoDB application with complete authentication system and DevOps deployment.
 ---
 
 ## 📡 Live Status Dashboard
@@ -100,45 +101,35 @@ React + Node.js + MongoDB application with complete authentication system and De
 </p>
 
 ---
-🎯 Technical Expertise
+## 🎯 Technical Expertise  
+⚙️ — — — ⚙️  
 
-⚙️ — — — ⚙️
+### **Infrastructure as Code**
+**Terraform**, **CloudFormation**  
 
-Infrastructure as Code
+### **Cloud Native Technologies**
+**Kubernetes**, **Docker**, **Helm**  
 
-Terraform, CloudFormation
+### **DevOps Automation**
+**GitHub Actions**, **Jenkins**  
 
-Cloud Native Technologies
+### **Multi-cloud Strategies**
+**AWS**, **Azure**, **GCP**  
 
-Kubernetes, Docker, Helm
+### **Service Mesh & Monitoring**
+**Istio**, **Prometheus**, **Grafana**  
 
-DevOps Automation
+### **Security & Compliance**
+**IAM**, **VPC**, **RDS**, **Network Policies**  
 
-GitHub Actions, Jenkins
+### **Microservices & CI/CD**
+**Pipeline Design**, **Blue-Green Deployment**, **Rollback Systems**  
 
-Multi-cloud Strategies
+### **AI & Intelligent Automation**
+**Predictive Scaling**, **MLOps Integration**, **AI-Driven Infrastructure**  
 
-AWS, Azure, GCP
-
-Service Mesh & Monitoring
-
-Istio, Prometheus, Grafana
-
-Security & Compliance
-
-IAM, VPC, RDS, Network Policies
-
-Microservices & CI/CD
-
-Pipeline Design, Blue-Green Deployment, Rollback Systems
-
-AI & Intelligent Automation
-
-Predictive Scaling, MLOps Integration, AI-Driven Infrastructure
-
-Full Stack Development
-
-React, Node.js, MongoDB, REST APIs, Python, JavaScriptI-Powered DevOps** – Predictive Scaling • MLOps Integration
+### **Full Stack Development**
+**React**, **Node.js**, **MongoDB**, **REST APIs**, **Python**, **JavaScript**  
 
 ---
 
@@ -162,15 +153,16 @@ React, Node.js, MongoDB, REST APIs, Python, JavaScriptI-Powered DevOps** – Pre
 
 ---
 
-💭 Engineering Philosophy
+## 💭 Engineering Philosophy  
+⚙️ — — — ⚙️  
 
-⚙️ — — — ⚙️
+> “Infrastructure should be invisible until it's needed, and flawless when it is.”  
+> “We don't just automate tasks — we amplify human potential through intelligent systems.”  
+> “Every line of infrastructure code is a promise of reliability and scalability.”  
 
-“Infrastructure should be invisible until it's needed, and flawless when it is.”
-“We don't just automate tasks — we amplify human potential through intelligent systems.”
-“Every line of infrastructure code is a promise of reliability and scalability.”
+<i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i>  
 
-<i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i>
+</div>
 ---
 
 ## 🏆 GitHub Achievements & Highlights
