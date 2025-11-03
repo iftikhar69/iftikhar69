@@ -58,19 +58,6 @@ timeline
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF" height="180" alt="GitHub Streak Stats"/>
 </p>
 
-</div>
-
-<p align="center">
-  <img src="https://github.com/iftikhar69.png" width="120" style="border-radius:50%; border: 3px solid #58A6FF;" alt="Iftikhar's Avatar"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF" height="180" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftikhar69&theme=radical" width="100%" alt="Profile Summary Card"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iftikhar69&theme=radical" height="170" alt="Top Languages"/>
@@ -86,23 +73,7 @@ timeline
   <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&line_height=24" height="170" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&custom_title=Contribution%20Activity%20Overview" width="100%" alt="GitHub Activity Graph"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://skyline.github.com/iftikhar69">
-    <img src="https://img.shields.io/badge/🌌_Explore_My_3D_Code_Skyline-232F3E?style=for-the-badge&logo=github&logoColor=white" alt="3D Skyline"/>
-  </a>
-</p>
 
 </div>
 
