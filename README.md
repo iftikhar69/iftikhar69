@@ -42,17 +42,39 @@ timeline
 ```
 
 ---
+<div align="center">
 
-## 📊 My GitHub Journey
+## 📊 My GitHub Journey  
+⚙️ — — — ⚙️  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" height="165" />
+<p align="center">  
+  <!-- Stats and Streaks Side-by-Side -->  
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&rank_icon=github" height="170" alt="GitHub Stats"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E96&currStreakNum=FFFFFF&sideNums=58A6FF" height="170" alt="GitHub Streak Stats"/>  
+</p>  
+
+<p align="center">  
+  <!-- Trophy Section -->  
+  <img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>  
+</p>  
+
+<p align="center">  
+  <!-- Contribution Graph -->  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&custom_title=Contribution%20Activity%20Overview" width="100%" alt="GitHub Activity Graph"/>  
+</p>  
+
+<p align="center">  
+  <!-- Contribution Snake Animation -->  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />  
+</p>  
+
+<p align="center">  
+  <a href="https://skyline.github.com/iftikhar69">  
+    <img src="https://img.shields.io/badge/🌌_Explore_My_3D_Code_Skyline-232F3E?style=for-the-badge&logo=github&logoColor=white" alt="3D Skyline"/>  
+  </a>  
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iftikhar69&theme=radical&margin-w=15&no-frame=true&row=2&column=4" />
-</p>
+</div>
 
 ---
 
