@@ -74,20 +74,21 @@ timeline
 
 ---
 
-## 🏗️ Featured Infrastructure Projects
+🏗️ Featured Infrastructure Projects
 
-**Terraform AWS Infrastructure**
+⚙️ — — — ⚙️
+
+Terraform AWS Infrastructure
 Production-ready modules for multi-environment deployments with automated scaling and security configurations.
 
-**Intelligent CI/CD Pipelines**
-AI-enhanced automation workflows with predictive testing and smart rollback capabilities.
+Intelligent CI/CD Pipelines
+AI-enhanced automation workflows featuring predictive testing and smart rollback capabilities.
 
-**Kubernetes Cluster Management**
+Kubernetes Cluster Management
 Container orchestration with advanced monitoring, auto-scaling, and service mesh implementations.
 
-**Full Stack Dashboard**
+Full Stack Dashboard
 React + Node.js + MongoDB application with complete authentication system and DevOps deployment.
-
 ---
 
 ## 📡 Live Status Dashboard
@@ -99,17 +100,45 @@ React + Node.js + MongoDB application with complete authentication system and De
 </p>
 
 ---
+🎯 Technical Expertise
 
-## 🎯 Technical Expertise
+⚙️ — — — ⚙️
 
-**Infrastructure as Code** – Terraform • CloudFormation
-**Cloud Native Technologies** – Kubernetes • Docker • Helm
-**DevOps Automation** – GitHub Actions • Jenkins
-**Multi-cloud Strategies** – AWS • Hybrid • Edge
-**Monitoring & Security** – Prometheus • Istio • Compliance
-**CI/CD Pipeline Design** – Scalable, Intelligent Automation
-**Full Stack Development** – React • Node.js • MongoDB
-**AI-Powered DevOps** – Predictive Scaling • MLOps Integration
+Infrastructure as Code
+
+Terraform, CloudFormation
+
+Cloud Native Technologies
+
+Kubernetes, Docker, Helm
+
+DevOps Automation
+
+GitHub Actions, Jenkins
+
+Multi-cloud Strategies
+
+AWS, Azure, GCP
+
+Service Mesh & Monitoring
+
+Istio, Prometheus, Grafana
+
+Security & Compliance
+
+IAM, VPC, RDS, Network Policies
+
+Microservices & CI/CD
+
+Pipeline Design, Blue-Green Deployment, Rollback Systems
+
+AI & Intelligent Automation
+
+Predictive Scaling, MLOps Integration, AI-Driven Infrastructure
+
+Full Stack Development
+
+React, Node.js, MongoDB, REST APIs, Python, JavaScriptI-Powered DevOps** – Predictive Scaling • MLOps Integration
 
 ---
 
@@ -133,16 +162,15 @@ React + Node.js + MongoDB application with complete authentication system and De
 
 ---
 
-## 💭 Engineering Philosophy
+💭 Engineering Philosophy
 
-> "Infrastructure should be invisible until it's needed, and flawless when it is."
-> "We don't just automate tasks—we amplify human potential through intelligent systems."
-> "Every line of infrastructure code is a promise of reliability and scalability."
+⚙️ — — — ⚙️
 
-<p align="center">
+“Infrastructure should be invisible until it's needed, and flawless when it is.”
+“We don't just automate tasks — we amplify human potential through intelligent systems.”
+“Every line of infrastructure code is a promise of reliability and scalability.”
+
 <i>Building the future, one pipeline at a time. Let's create something extraordinary together! 🚀</i>
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements & Highlights
