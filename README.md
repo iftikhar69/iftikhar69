@@ -41,11 +41,24 @@ timeline
         2025 : AI-Powered DevOps<br>MLOps Implementation<br>Predictive Infrastructure Scaling
 ```
 
----
-<div align="center">
+---<div align="center">
 
-## 🧠 My GitHub Performance Dashboard  
-⚙️ — — — ⚙️  
+## 🌀 My GitHub Performance Dashboard  
+### <sub><i>Visualizing My Developer Footprint — Streaks, Commits & Impact</i></sub>  
+
+<br/>
+
+<!-- Glowing Avatar -->
+<p align="center">
+  <img src="https://github.com/iftikhar69.png" width="140" height="140" style="border-radius:50%; box-shadow: 0 0 25px #58A6FF, 0 0 45px #00FFFF;" alt="Iftikhar's Avatar"/>
+</p>
+
+<!-- Streak Circle -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF" height="180" alt="GitHub Streak Stats"/>
+</p>
+
+</div>
 
 <p align="center">
   <img src="https://github.com/iftikhar69.png" width="120" style="border-radius:50%; border: 3px solid #58A6FF;" alt="Iftikhar's Avatar"/>
