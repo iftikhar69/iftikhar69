@@ -94,14 +94,7 @@ timeline
 
 </div>
 
----
----
 
-## 📈 Contributions & Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&custom_title=My%20Contributions%20Activity" width="100%" />
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
