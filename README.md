@@ -40,42 +40,20 @@ timeline
         2025 : AI-Powered DevOps<br>MLOps Implementation<br>Predictive Infrastructure Scaling
 ```
 
----<div align="center">
+---
+---
 
-## 🌀 My GitHub Performance Dashboard  
-### <sub><i>Visualizing My Developer Footprint — Streaks, Commits & Impact</i></sub>  
+## 📊 Development Metrics
 
-<br/>
+<div align="center">
 
-<!-- Glowing Avatar -->
-<p align="center">
-  <img src="https://github.com/iftikhar69.png" width="140" height="140" style="border-radius:50%; box-shadow: 0 0 25px #58A6FF, 0 0 45px #00FFFF;" alt="Iftikhar's Avatar"/>
-</p>
-
-<!-- Streak Circle -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftikhar69&theme=radical&hide_border=true&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF" height="180" alt="GitHub Streak Stats"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iftikhar69&theme=radical" height="170" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iftikhar69&theme=radical" height="170" alt="Most Commit Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iftikhar69&theme=radical" height="170" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iftikhar69&theme=radical&utcOffset=5" height="170" alt="Productive Time"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&line_height=24" height="170" alt="GitHub Stats"/>
-</p>
-
-
+| **Activity** | **Streak** | **Languages** |
+|:---:|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" /> |
 
 </div>
 
+---
 ---
 
 ## 📈 Contributions & Activity
