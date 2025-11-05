@@ -123,12 +123,11 @@ React + Node.js + MongoDB application with complete authentication system and De
 <img src="https://img.shields.io/badge/💡_Open_To-Collaboration_&_Innovation-success?style=for-the-badge&logo=github" />
 </p>
 
----## 🎯 Technical Expertise
-
-**🏗️ Infrastructure as Code** • **🐳 Cloud Native** • **⚡ DevOps Automation** • **☁️ Multi-cloud** • **📊 Monitoring**
+---
+## 🎯 Technical Expertise
 
 <details>
-<summary><b>➕ View All Specializations</b></summary>
+<summary><b>🛠️ Core DevOps & Cloud (Click to expand)</b></summary>
 
 ### **Infrastructure as Code**
 **Terraform**, **CloudFormation**
@@ -145,6 +144,11 @@ React + Node.js + MongoDB application with complete authentication system and De
 ### **Service Mesh & Monitoring**
 **Istio**, **Prometheus**, **Grafana**
 
+</details>
+
+<details>
+<summary><b>🔧 Advanced & Specialized (Click to expand)</b></summary>
+
 ### **Security & Compliance**
 **IAM**, **VPC**, **RDS**, **Network Policies**
 
@@ -158,6 +162,7 @@ React + Node.js + MongoDB application with complete authentication system and De
 **React**, **Node.js**, **MongoDB**, **REST APIs**, **Python**, **JavaScript**
 
 </details>
+---
 
 ## 📫 Connect With Me
 
