@@ -163,7 +163,7 @@ React + Node.js + MongoDB application with complete authentication system and De
 **React**, **Node.js**, **MongoDB**, **REST APIs**, **Python**, **JavaScript**
 
 </details>
----
+
 
 ## 📫 Connect With Me
 
