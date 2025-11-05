@@ -44,7 +44,7 @@ timeline
 ----
 ---
 
-## 🌟 Code Energy
+## ⚡ Code Energy
 
 <div align="center">
 
@@ -53,44 +53,42 @@ timeline
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Live+GitHub+Metrics;Real-time+Code+Energy;DevOps+Development+Pulse" alt="Typing SVG" />
 </p>
 
-<!-- Floating Stats Grid -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1rem 0;">
+<!-- Compact Stats Grid -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1rem 0;">
 
-<!-- Glowing Stats Card -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 1.2rem; border-radius: 15px; border: 1px solid #58A6FF; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #58A6FF, #00D4FF);"></div>
-  <h4 style="color: #58A6FF; margin: 0 0 0.5rem 0; font-size: 14px;">🚀 DEVELOPMENT ACTIVITY</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true&line_height=20" height="130" />
+<!-- Main Stats with 3D Effect -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 1.2rem; border-radius: 15px; border: 1px solid #58A6FF; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.2), inset 0 1px 0 rgba(255,255,255,0.1);">
+  <h4 style="color: #58A6FF; margin: 0 0 0.5rem 0; font-size: 14px; text-align: center;">📊 DEVELOPMENT ACTIVITY</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true&line_height=20&custom_title=" height="140" />
 </div>
 
-<!-- Pulsing Streak Card -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 1.2rem; border-radius: 15px; border: 1px solid #FF6B6B; box-shadow: 0 0 20px rgba(255, 107, 107, 0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #FF6B6B, #FFB000);"></div>
-  <h4 style="color: #FF6B6B; margin: 0 0 0.5rem 0; font-size: 14px;">🔥 CONTRIBUTION STREAK</h4>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFB000&currStreakLabel=FF6B6B&hide_title=true" height="130" />
+<!-- Languages & Streak Combo -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 1.2rem; border-radius: 15px; border: 1px solid #7B42BC; box-shadow: 0 8px 32px rgba(123, 66, 188, 0.2), inset 0 1px 0 rgba(255,255,255,0.1);">
+  <h4 style="color: #7B42BC; margin: 0 0 0.5rem 0; font-size: 14px; text-align: center;">🔥 CODING STREAK</h4>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=7B42BC&ring=7B42BC&fire=FF6B6B&currStreakLabel=7B42BC&hide_title=true" height="70" />
+  <br>
+  <h4 style="color: #00D4FF; margin: 0.5rem 0 0.5rem 0; font-size: 14px; text-align: center;">💻 TOP LANGUAGES</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&hide_title=true" height="70" />
 </div>
 
 </div>
 
-<!-- Snake Animation with Glow -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 1rem; border-radius: 15px; border: 1px solid #00D4FF; box-shadow: 0 0 25px rgba(0, 212, 255, 0.2); margin: 1rem 0;">
-  <h4 style="color: #00D4FF; margin: 0 0 0.5rem 0; text-align: center; font-size: 14px;">🐍 CONTRIBUTION SNAKE</h4>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="filter: brightness(1.2);" />
+<!-- Activity Wave -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 1rem; border-radius: 15px; border: 1px solid #00D4FF; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.2); margin: 1rem 0;">
+  <h4 style="color: #00D4FF; margin: 0 0 0.5rem 0; text-align: center; font-size: 14px;">📈 CONTRIBUTION WAVE</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=00D4FF&point=FFFFFF&custom_title=Weekly+Development+Flow" width="100%" />
 </div>
 
-<!-- Quick Stats Bar -->
+<!-- Tech Pulse Badges -->
 <div style="display: flex; justify-content: center; gap: 0.8rem; flex-wrap: wrap; margin: 1rem 0;">
-  <div style="background: rgba(88, 166, 255, 0.15); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #58A6FF; backdrop-filter: blur(10px);">
-    <span style="color: #58A6FF; font-size: 12px;">📚 REPOS</span>
+  <div style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.15) 0%, rgba(88, 166, 255, 0.05) 100%); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #58A6FF; backdrop-filter: blur(10px);">
+    <span style="color: #58A6FF; font-size: 12px; font-weight: bold;">⚡ ACTIVE</span>
   </div>
-  <div style="background: rgba(123, 66, 188, 0.15); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #7B42BC; backdrop-filter: blur(10px);">
-    <span style="color: #7B42BC; font-size: 12px;">⭐ STARS</span>
+  <div style="background: linear-gradient(135deg, rgba(123, 66, 188, 0.15) 0%, rgba(123, 66, 188, 0.05) 100%); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #7B42BC; backdrop-filter: blur(10px);">
+    <span style="color: #7B42BC; font-size: 12px; font-weight: bold;">🚀 GROWING</span>
   </div>
-  <div style="background: rgba(0, 212, 255, 0.15); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #00D4FF; backdrop-filter: blur(10px);">
-    <span style="color: #00D4FF; font-size: 12px;">🔀 PRs</span>
-  </div>
-  <div style="background: rgba(255, 107, 107, 0.15); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #FF6B6B; backdrop-filter: blur(10px);">
-    <span style="color: #FF6B6B; font-size: 12px;">💫 COMMITS</span>
+  <div style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.15) 0%, rgba(0, 212, 255, 0.05) 100%); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #00D4FF; backdrop-filter: blur(10px);">
+    <span style="color: #00D4FF; font-size: 12px; font-weight: bold;">💡 INNOVATING</span>
   </div>
 </div>
 
