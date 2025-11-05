@@ -123,38 +123,41 @@ React + Node.js + MongoDB application with complete authentication system and De
 <img src="https://img.shields.io/badge/💡_Open_To-Collaboration_&_Innovation-success?style=for-the-badge&logo=github" />
 </p>
 
----
-## 🎯 Technical Expertise  
-⚙️ — — — ⚙️  
+---## 🎯 Technical Expertise
+
+**🏗️ Infrastructure as Code** • **🐳 Cloud Native** • **⚡ DevOps Automation** • **☁️ Multi-cloud** • **📊 Monitoring**
+
+<details>
+<summary><b>➕ View All Specializations</b></summary>
 
 ### **Infrastructure as Code**
-**Terraform**, **CloudFormation**  
+**Terraform**, **CloudFormation**
 
 ### **Cloud Native Technologies**
-**Kubernetes**, **Docker**, **Helm**  
+**Kubernetes**, **Docker**, **Helm**
 
 ### **DevOps Automation**
-**GitHub Actions**, **Jenkins**  
+**GitHub Actions**, **Jenkins**
 
 ### **Multi-cloud Strategies**
-**AWS**, **Azure**, **GCP**  
+**AWS**, **Azure**, **GCP**
 
 ### **Service Mesh & Monitoring**
-**Istio**, **Prometheus**, **Grafana**  
+**Istio**, **Prometheus**, **Grafana**
 
 ### **Security & Compliance**
-**IAM**, **VPC**, **RDS**, **Network Policies**  
+**IAM**, **VPC**, **RDS**, **Network Policies**
 
 ### **Microservices & CI/CD**
-**Pipeline Design**, **Blue-Green Deployment**, **Rollback Systems**  
+**Pipeline Design**, **Blue-Green Deployment**, **Rollback Systems**
 
 ### **AI & Intelligent Automation**
-**Predictive Scaling**, **MLOps Integration**, **AI-Driven Infrastructure**  
+**Predictive Scaling**, **MLOps Integration**, **AI-Driven Infrastructure**
 
 ### **Full Stack Development**
-**React**, **Node.js**, **MongoDB**, **REST APIs**, **Python**, **JavaScript**  
+**React**, **Node.js**, **MongoDB**, **REST APIs**, **Python**, **JavaScript**
 
----
+</details>
 
 ## 📫 Connect With Me
 
