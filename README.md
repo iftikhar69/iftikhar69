@@ -42,14 +42,70 @@ timeline
 
 ---
 ---
+---
 
-## 📊 Development Metrics
+## 🚀 GitHub Performance Matrix
 
 <div align="center">
 
-| **Activity** | **Streak** | **Languages** |
-|:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" /> |
+<!-- Main Stats with Glow Effect -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+
+<!-- Stats Card with Gradient Border -->
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 1.5rem; border-radius: 15px; border: 1px solid #58A6FF; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.1);">
+<h4 style="color: #58A6FF; margin: 0 0 1rem 0;">📈 Code Activity</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=iftikhar69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&include_all_commits=true" width="100%" />
+</div>
+
+<!-- Streak Card with Pulse Animation -->
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 1.5rem; border-radius: 15px; border: 1px solid #7B42BC; box-shadow: 0 8px 32px rgba(123, 66, 188, 0.1);">
+<h4 style="color: #7B42BC; margin: 0 0 1rem 0;">🔥 Contribution Streak</h4>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar69&theme=radical&hide_border=true&background=0D1117&stroke=7B42BC&ring=7B42BC&fire=FF6B6B&currStreakLabel=7B42BC" width="100%" />
+</div>
+
+</div>
+
+<!-- Language & Time Stats -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
+
+<!-- Languages Card -->
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 1.5rem; border-radius: 15px; border: 1px solid #00D4FF; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.1);">
+<h4 style="color: #00D4FF; margin: 0 0 1rem 0;">💻 Top Languages</h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftikhar69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="100%" />
+</div>
+
+<!-- Productivity Card -->
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 1.5rem; border-radius: 15px; border: 1px solid #FFB000; box-shadow: 0 8px 32px rgba(255, 176, 0, 0.1);">
+<h4 style="color: #FFB000; margin: 0 0 1rem 0;">⏰ Coding Hours</h4>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iftikhar69&theme=radical&utcOffset=5" width="100%" />
+</div>
+
+</div>
+
+<!-- Mini Metrics Row -->
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0;">
+
+<div style="background: rgba(88, 166, 255, 0.1); padding: 0.8rem 1.2rem; border-radius: 10px; border: 1px solid #58A6FF;">
+<strong style="color: #58A6FF;">📚 Repositories</strong><br>
+<small style="color: #FFFFFF;">Active Development</small>
+</div>
+
+<div style="background: rgba(123, 66, 188, 0.1); padding: 0.8rem 1.2rem; border-radius: 10px; border: 1px solid #7B42BC;">
+<strong style="color: #7B42BC;">⭐ Stars Earned</strong><br>
+<small style="color: #FFFFFF;">Community Recognition</small>
+</div>
+
+<div style="background: rgba(0, 212, 255, 0.1); padding: 0.8rem 1.2rem; border-radius: 10px; border: 1px solid #00D4FF;">
+<strong style="color: #00D4FF;">🔀 Pull Requests</strong><br>
+<small style="color: #FFFFFF;">Active Contributions</small>
+</div>
+
+<div style="background: rgba(255, 176, 0, 0.1); padding: 0.8rem 1.2rem; border-radius: 10px; border: 1px solid #FFB000;">
+<strong style="color: #FFB000;">💫 Commits</strong><br>
+<small style="color: #FFFFFF;">Continuous Delivery</small>
+</div>
+
+</div>
 
 </div>
 
