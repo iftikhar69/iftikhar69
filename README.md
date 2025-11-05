@@ -79,18 +79,8 @@ timeline
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftikhar69&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=00D4FF&point=FFFFFF&custom_title=Weekly+Development+Flow" width="100%" />
 </div>
 
-<!-- Tech Pulse Badges -->
-<div style="display: flex; justify-content: center; gap: 0.8rem; flex-wrap: wrap; margin: 1rem 0;">
-  <div style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.15) 0%, rgba(88, 166, 255, 0.05) 100%); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #58A6FF; backdrop-filter: blur(10px);">
-    <span style="color: #58A6FF; font-size: 12px; font-weight: bold;">⚡ ACTIVE</span>
-  </div>
-  <div style="background: linear-gradient(135deg, rgba(123, 66, 188, 0.15) 0%, rgba(123, 66, 188, 0.05) 100%); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #7B42BC; backdrop-filter: blur(10px);">
-    <span style="color: #7B42BC; font-size: 12px; font-weight: bold;">🚀 GROWING</span>
-  </div>
-  <div style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.15) 0%, rgba(0, 212, 255, 0.05) 100%); padding: 0.6rem 1rem; border-radius: 25px; border: 1px solid #00D4FF; backdrop-filter: blur(10px);">
-    <span style="color: #00D4FF; font-size: 12px; font-weight: bold;">💡 INNOVATING</span>
-  </div>
-</div>
+
+
 
 </div>
 
